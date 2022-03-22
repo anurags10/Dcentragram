@@ -1,4 +1,4 @@
-# Dcentragram("Decentralized Photo Social Media.")
+# Dcentragram(Decentralized Photo Social Media)
 
 Dcentragram is a platform where all can upload their pictures and can give tips in ethereum to the other user by connecting their Metamask Wallet.
 
